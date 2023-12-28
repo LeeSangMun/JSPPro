@@ -1,0 +1,1 @@
+﻿configure -> tern project -< 체크 jquery 4가지
